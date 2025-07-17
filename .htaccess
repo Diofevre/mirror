@@ -1,0 +1,7 @@
+# SPA routing
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.html [L]
+
+# Bon MIME pour les modules ES
+AddType application/javascript .mjs
