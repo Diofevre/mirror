@@ -2,7 +2,7 @@
 # Mirror
 
 ## Présentation
-Mirror est un site statique moderne migré depuis Framer, conçu pour être rapide, réactif et facile à déployer. Ce projet permet aux développeurs et aux créateurs de contenus de lancer leur site personnel ou professionnel en un temps record, avec un design élégant et fonctionnel.
+Mirror est un site statique moderne migré depuis..., conçu pour être rapide, réactif et facile à déployer. Ce projet permet aux développeurs et aux créateurs de contenus de lancer leur site personnel ou professionnel en un temps record, avec un design élégant et fonctionnel.
 
 ## Installation
 Pour installer Mirror sur votre machine, suivez ces étapes :
